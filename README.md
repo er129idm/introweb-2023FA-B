@@ -5,11 +5,11 @@
 ### Technology, Culture and Society
 ### Integrated Digital Media
 
-**DM-UY 2193 A Intro to Web Development**
+**DM-UY 2193 B Intro to Web Development**
 
 **Spring 2023 – Professor Effie J. Rieper**
 
-*Tuesday + Thursday 8:00AM EST - 10:00PM EST*
+*Tuesday + Thursday 8:00AM EST - 10:00AM EST*
 
 *To contact professor: er129@nyu.edu*
 
@@ -88,12 +88,11 @@ There is no required textbook for this course, however students will be required
 
 We will rely on language and library specific documentation and [https://www.w3schools.com/](W3Schools) extensively– one of our goals as a class is to "learn how to learn" by becoming adept at navigating these online resources.
 
-## Remote Instruction and Asynchronous Learning
+## Zoom and Class Recordings
 
-This semester we will have students in multiple time-zones with various needs in regards to scheduling and ability to participate in the Zoom sessions. It is my goal to accommodate and coordinate, however possible, a productive experience for you in this class and the way to best facilitate that is through coordination and lots of communication directly with individual student. All class material is available through our GitHub and Google Doc, all Zoom meetings will be recorded and uploaded directly after class, and I am available to assist with any code issues directly via email.
+One of the most valuable parts of a university learning environment is the chance to receive feedback and participate in group discussion; your presence and perspectives bring that value to everyone in the class.
 
-One of the most valuable parts of how this class operates is the chance to receive feedback and participate in group discussion in our Zoom meetings, so, I strongly encourage you to try to attend our Zoom class in real-time if possible, but if that is not possible, we will coordinate to facilitate the most value possible from an asynchronous learning experience.
-
+This course is held **in person**. For the sake of having a recording to view, and for those who run into unforseen issues, it is simultaneously streamed over Zoom.  All class material is available through our GitHub and Google Doc, all Zoom meetings will be recorded and uploaded directly after class, and I am available to assist with any code issues directly via email.
 
 ## Code Plagiarism
 
